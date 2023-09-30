@@ -26,16 +26,6 @@ Convert your sketches back into images with ease. Whether you want to turn your 
 
 Experience the convenience and creativity of the SnapArt App for all your sketching and image editing needs.
 
-## Screenshots
-Here are some screenshots of the SnapArt App:
-
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-  <img src="Screenshots/screenshot.jpg" alt="Sketch Library" style="width: 300px; margin-right: 10px;">
-  <img src="Screenshots/screenshot1.jpg" alt="Camera Integration" style="width: 300px; margin-right: 10px;">
-  <img src="Screenshots/screenshot2.jpg" alt="Image Editing" style="width: 300px; margin-right: 10px;">
-  <img src="Screenshots/screenshot3.jpg" alt="Export and Share" style="width: 300px;">
-</div>
-
 ## Copyright Notice
 
 This project and its source code are protected by copyright law. All rights are reserved by the project owner (Code Square). Unauthorized use, distribution, or reproduction of this project or its source code is prohibited.
